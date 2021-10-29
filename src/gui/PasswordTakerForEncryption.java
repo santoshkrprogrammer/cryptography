@@ -1,6 +1,6 @@
 package gui;
 
-import videoencanddec.EncryptorAndDecryptor;
+import fileencanddec.EncryptorAndDecryptor;
 import java.awt.Toolkit;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;

@@ -1,7 +1,7 @@
 package gui;
 
-import videoencanddec.Compress;
-import videoencanddec.Decompress;
+import fileencanddec.Compress;
+import fileencanddec.Decompress;
 import java.awt.Toolkit;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
@@ -18,7 +18,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author dell
+ * @author dell itachi law 1233
  */
 
 public class Main extends javax.swing.JFrame

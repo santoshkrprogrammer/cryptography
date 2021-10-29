@@ -1,5 +1,5 @@
 
-package videoencanddec;
+package fileencanddec;
 
 import gui.ExceptionDialog;
 import gui.SourceFileNotDeletedDuringDecryption;

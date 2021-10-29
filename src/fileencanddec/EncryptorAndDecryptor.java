@@ -1,5 +1,5 @@
 
-package videoencanddec;
+package fileencanddec;
 
 import gui.EncryptorAndDecryptorProgress;
 import gui.ExceptionDialog;
